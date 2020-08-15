@@ -7,7 +7,6 @@ Futuro Data Scientist
 Habilidades: R / Python / HTML / CSS
 
 - 🌱 Actualmente estoy aprendiendo Python 
-- 🤔 I’m looking for help with https://www.facebook.com/eduardoj.crraleshuaman/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/eduardoj.crraleshuaman/)  
