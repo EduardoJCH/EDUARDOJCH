@@ -8,7 +8,7 @@ Soy de Lima,Peru <img src="https://image.flaticon.com/icons/svg/323/323273.svg" 
 
 -  Me apasiona trabajar con datos y aprender diferentes lenguajes de programacion que complementen al analisis de datos.
 Futuro Data Scientist 
-
+- Habilidades: R/Python/HTML/CSS
 
 <p><a href="https://twitter.com/CasalloF" target="_blank"><a href="https://www.linkedin.com/in/eduardo-corrales-huaman-a5baa91a0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
