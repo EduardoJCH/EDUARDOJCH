@@ -4,7 +4,7 @@
 <p>Bienvenido a mi perfil.</b> Hola mi nombre es Eduardo. </br>
 Soy de Lima,Peru <img src="https://image.flaticon.com/icons/svg/323/323273.svg" width="13"/> </p>
 
-- 🌱 Soy estudiante de Ing Estadistica de la Universidad Nacional Agraria La Molina
+- Soy estudiante de Ing Estadistica de la Universidad Nacional Agraria La Molina 🌱
 
 -  Me apasiona trabajar con datos y aprender diferentes lenguajes de programacion que complementen al analisis de datos.
 Futuro Data Scientist 
